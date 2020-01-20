@@ -45,6 +45,7 @@ def dijsktra(graph, initial, end):
     current_node = initial
     visited = set()
     
+    #commit
     while current_node != end:
         visited.add(current_node)
         destinations = graph.edges[current_node]
