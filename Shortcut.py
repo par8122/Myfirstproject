@@ -31,6 +31,7 @@ edges = [
     ('K', 'Y', 5),
 ]
 #add
+#comment
 #addin second coment
 for edge in edges:
     graph.add_edge(*edge)
