@@ -7,7 +7,9 @@ class Graph():
         
         self.edges = defaultdict(list)
         graph = Graph()
-
+        
+print("hello world")
+        
 edges = [
     ('X', 'A', 7),
     ('X', 'B', 2),
