@@ -72,4 +72,5 @@ def dijsktra(graph, initial, end):
     return path
 
 print(dijsktra(graph, 'X', 'Y'))
+print("Hello")
 
