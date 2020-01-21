@@ -28,7 +28,7 @@ edges = [
     ('J', 'L', 1),
     ('K', 'Y', 5),
 ]
-
+#add
 for edge in edges:
     graph.add_edge(*edge)
     
