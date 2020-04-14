@@ -4,7 +4,7 @@ from collections import defaultdict
 
 class Graph():
     def __init__(self):
-        print("")
+       
         
         self.edges = defaultdict(list)
         graph = Graph()
