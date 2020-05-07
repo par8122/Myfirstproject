@@ -75,6 +75,6 @@ def dijsktra(graph, initial, end):
     # Reverse path
     path = path[::-1]
     return path
-
+#display the graph
 print(dijsktra(graph, 'X', 'Y'))
 
