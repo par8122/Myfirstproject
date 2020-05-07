@@ -32,7 +32,7 @@ edges = [
     ('K', 'Y', 5),
 ]
 
-#install aadd
+#install aadded
 
 #adding second coment
 for edge in edges:
