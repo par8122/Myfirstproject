@@ -10,7 +10,7 @@ class Graph():
         graph = Graph()
         #added comment
 print("hello world")
-    #hello    
+    #hello added some comment    
 edges = [
     ('X', 'A', 7),
     ('X', 'B', 2),
